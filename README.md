@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiky-111&show_icons=true&locale=en" alt="saiky-111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiky-111&" alt="saiky-111" /></p>
+
+## 📊 Leetcode Stats
+![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky_111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)
+
+## 🐍 Github Contributions
+![](https://raw.githubusercontent.com/saiky-111/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
