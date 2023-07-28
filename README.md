@@ -38,4 +38,4 @@
 ![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky_111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)
 
 ## 🐍 Github Contributions
-![](https://raw.githubusercontent.com/saiky-111/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saiky-111/saiky-111/blob/output/github-contribution-grid-snake.gif)
