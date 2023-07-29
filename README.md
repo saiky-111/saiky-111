@@ -35,7 +35,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiky-111&" alt="saiky-111" /></p>
 
 ## 📊 Leetcode Stats
-![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky_111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)
+![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky-111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)
 
 ## 🐍 Github Contributions
 ![snake gif](https://github.com/saiky-111/saiky-111/blob/output/github-contribution-grid-snake.gif)
