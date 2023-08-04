@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **saikat111dhibar@gmail.com**
 
