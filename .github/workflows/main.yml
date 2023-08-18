@@ -24,7 +24,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}  # Use the secret you created
           branch: output
           force: true
 
@@ -33,4 +33,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}  # Use the same secret here
+
