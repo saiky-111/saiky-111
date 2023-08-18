@@ -49,5 +49,5 @@
 <!--## 📊 Leetcode Stats
 ![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky-111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)-->
 
-<!--## 🐍 Github Contributions
-![snake gif](https://github.com/saiky-111/saiky-111/blob/output/github-contribution-grid-snake.gif)-->
+## 🐍 Github Contributions
+![snake gif](https://github.com/saiky-111/saiky-111/blob/output/github-contribution-grid-snake.gif)
