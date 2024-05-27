@@ -92,7 +92,7 @@
 
 ## 📊 Leetcode Stats
 ![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky-111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)
-![](https://leetcard.jacoblin.cool/saiky_111?ext=heatmap)
+![](https://leetcard.jacoblin.cool/saiky_111?theme=dark&ext=heatmap)
 
 
 
