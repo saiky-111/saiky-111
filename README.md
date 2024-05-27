@@ -56,10 +56,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiky-111&" alt="saiky-111" /></p>
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saiky-111&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saiky-111&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<!--### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -69,8 +69,8 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ## 📊 Leetcode Stats
-![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky-111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)-->
--->
-<!--## 🐍 Github Contributions
+![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/saiky-111?theme=light&font=Noto_Sans&ext=heatmap&site=cn)
+
+## 🐍 Github Contributions
 ![snake gif](https://github.com/saiky-111/saiky-111/raw/main/dist/github-contribution-grid-snake.gif)
 
