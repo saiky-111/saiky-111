@@ -81,21 +81,17 @@
 <br/>
 
 <br/>
-<div align=center>
+
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-<div align=center>
+
+
 ### 🔝 Top Contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=saiky-111&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-<div align=center>
-## 📊 Leetcode Stats
 
+
+## 📊 Leetcode Stats
 ![](https://leetcard.jacoblin.cool/saiky_111?theme=dark&ext=heatmap)
-</div>
 
 
 
