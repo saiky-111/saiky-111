@@ -5,19 +5,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saikat+Dhibar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center">An Aspiring Software Developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **my portfolio**
 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Node.js, React.js, Express.js, MongoDB**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **DSA ... or Anything! [here](https://github.com/saiky-111/saiky-111/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+📫 How to reach me **saikat111dhibar@gmail.com**
+
+⚡ Fun fact **I think I am funny**
 
  </div>
  
