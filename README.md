@@ -2,12 +2,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saiky-111.saiky-111" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nilavan+Dhibar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saikat+Dhibar!;" />
 </h1>
 
-<h3 align="center">An Aspiring Software Developer from India 🇮🇳</h3>
+<h3 align="center">I'm a final year undergrad pursuing Bachelor of Engineering (B.E.) from Jadavpur University, Kolkata, India. 🇮🇳</h3>
 
 <br/>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiky-111&label=Profile%20views&color=0e75b6&style=flat" alt="saiky-111" /> </p>
+
+<p align="left"> <a href="https://twitter.com/saiky_111" target="blank"><img src="https://img.shields.io/twitter/follow/saiky_111?logo=twitter&style=for-the-badge" alt="saiky_111" /></a> </p>
 
 <div align="center">
  
@@ -17,9 +25,7 @@
 
 💬 Ask me about **DSA ... or Anything! [here](https://github.com/saiky-111/saiky-111/issues)**
 
-📫 How to reach me **saikat111dhibar@gmail.com**
-
-⚡ Fun fact **I think I am funny**
+⚡ Fun fact **I think I am funny😅**
 
  </div>
  
