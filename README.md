@@ -1,5 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
-![logo]([https://github.com/saiky-111/saiky-111/blob/main/Github%20Banner.png](https://github.com/saiky-111/saiky-111/blob/main/ASPIRING%20SOFTware%20DEVELOPER.png))
+![logo](https://github.com/saiky-111/saiky-111/blob/main/ASPIRING%20SOFTware%20DEVELOPER.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saiky-111.saiky-111" />
 
 <h1 align="center">
