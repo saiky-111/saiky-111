@@ -89,7 +89,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saiky-111&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<!--
 ## 📊 Leetcode Stats
 ![](https://leetcard.jacoblin.cool/saiky_111?theme=dark&ext=heatmap)
 
