@@ -12,7 +12,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiky-111&label=Profile%20views&color=0e75b6&style=flat" alt="saiky-111" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saiky_111" target="blank"><img src="https://img.shields.io/twitter/follow/saiky_111?logo=twitter&style=for-the-badge" alt="saiky_111" /></a> </p>
 
@@ -46,7 +45,7 @@
 </div>
 <hr/>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiky-111&label=Profile%20views&color=0e75b6&style=flat" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=0e75b6" alt=""/>
 </div>
  <hr/>
 
