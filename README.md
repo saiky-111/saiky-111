@@ -75,7 +75,7 @@
   <br>
   <img width="1000" alt="snake eating my contributions" src="https://raw.githubusercontent.com/saiky-111/saiky-111/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
