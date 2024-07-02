@@ -80,9 +80,7 @@
 <p align="center">
     <img width="800" height="220" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saiky-111&count_private=true&theme=react&border_radius=10&card_width=800" alt="streak stats"/>  
 </p>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=6fc0db" alt=""/>
-</div>
+
 <hr/>
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=saiky-111&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" >
