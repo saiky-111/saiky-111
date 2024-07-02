@@ -44,10 +44,6 @@
      <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
 </div>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=0e75b6" alt=""/>
-</div>
-
  <hr/>
 
 <h2 align="center">⚒️ Dev-Languages-Frameworks-Tools ⚒️</h2>
