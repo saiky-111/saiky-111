@@ -102,7 +102,7 @@
 </div>
 -->
 
-
+<!--( UPdates Remaining)  Leetcode, PowerBi& dat& data engineeringa tools, coding profiles with links icons, skils like his profile->Sam Morozov -->
 
 
 <hr/>
@@ -126,23 +126,9 @@
 
 
 
-
 <!--
 ## 📊 Leetcode Stats
 ![](https://leetcard.jacoblin.cool/saiky_111?theme=dark&ext=heatmap)
-
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-
-
 
 
 
