@@ -44,12 +44,12 @@
      <a href="https://fb.com/saikat.dhibar.5015" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
 </div>
-
+<hr/>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=0e75b6" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=saiky-111&label=Profile%20views&color=0e75b6&style=flat" alt=""/>
 </div>
  <hr/>
- 
+
 <h2 align="center">⚒️ Dev-Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
