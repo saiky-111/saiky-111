@@ -44,9 +44,8 @@
      <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=saiky-111&color=orange)
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=0e75b6" alt=""/>
 </div>
 
  <hr/>
