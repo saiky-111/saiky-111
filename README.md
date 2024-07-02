@@ -81,7 +81,7 @@
     <img width="800" height="220" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saiky-111&count_private=true&theme=react&border_radius=10&card_width=800" alt="streak stats"/>  
 </p>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=63e5ff" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=saiky-111&style=for-the-badge&color=3cdfff" alt=""/>
 </div>
 <hr/>
 <p align="center">
