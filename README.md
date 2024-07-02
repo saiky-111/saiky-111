@@ -77,13 +77,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 ---
-
 <p align="center">
     <img width="800" height="220" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saiky-111&count_private=true&theme=react&border_radius=10&card_width=800" alt="streak stats"/>  
 </p>
-
 ---
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=saiky-111&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" >
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiky-111&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.0005&count_weight=0.3&exclude_repo=github-readme-stats" alt="top langs">
