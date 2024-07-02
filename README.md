@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <div align="left">
-  <img width="600" height="100" src="https://komarev.com/ghpvc/?username=saiky-111&style=flat&color=0e75b6" alt="Profile views"/>
+  <img width="200" height="50" src="https://komarev.com/ghpvc/?username=saiky-111&style=flat&color=0e75b6" alt="Profile views"/>
 </div>
 
 
