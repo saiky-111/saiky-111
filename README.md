@@ -30,7 +30,7 @@
 ⚡ Fun fact **I think I am funny😅**
 
  </div>
- <br><br>
+ <br>
 
 <h2 align="center">🌐 Socials 🌐<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <br/>
@@ -59,7 +59,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Dev-Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Dev-Languages-Frameworks-Tools ⚒️ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,postman" />
