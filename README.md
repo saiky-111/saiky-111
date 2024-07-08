@@ -14,7 +14,7 @@
   <img width="182" height="28" src="https://komarev.com/ghpvc/?username=saiky-111&style=flat&color=0e75b6" alt="Profile views"/>
 </div>
 
-<p align="left"> <a href="https://www.linkedin.com/in/saiky111/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Saikat Dhibar" width="150" height="30" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/saiky111/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Saikat Dhibar" width="182" height="28" /></a> </p>
 
 
 <!--<p align="left"> <a href="https://twitter.com/saiky_111" target="blank"><img src="https://img.shields.io/twitter/follow/saiky_111?logo=twitter&style=for-the-badge" alt="saiky_111" /></a> </p>-->
@@ -32,7 +32,7 @@
  </div>
  <br>
 
-<h2 align="center">🌐 Socials 🌐<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">🌐 Socials 🌐</h2>
 <br/>
 <div align="center">
 <div align="center"> 
@@ -59,7 +59,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Dev-Languages-Frameworks-Tools ⚒️ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>⚒️ Dev-Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,postman" />
