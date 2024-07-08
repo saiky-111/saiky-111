@@ -30,7 +30,8 @@
 ⚡ Fun fact **I think I am funny😅**
 
  </div>
- <br><br>
+ <br><br><hr>
+ # 🌐 Socials :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="center"> 
   <a href="mailto:saikat111dhibar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
