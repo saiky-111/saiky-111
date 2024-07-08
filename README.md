@@ -74,11 +74,11 @@
     <img src="https://skillicons.dev/icons?i=python,matplotlib,numpy, pandas,mysql" /><br>
     -->
 
-### Data Tools & libraries for Python3:
+### Data Tools, Python3 & It's Libraries:
 
-| MSExcel | Tableau | PowerBI | Numpy | Pandas |
-|----------|----------|----------|----------|----------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="MSExcel" alt="MSExcel" width="55" height="55"/>|   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="Tableau" alt="Tableau" width="55" height="55"/>|   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|
+| MSExcel | Tableau | PowerBI | Python | Numpy | Pandas |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="MSExcel" alt="MSExcel" width="55" height="55"/>|   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="Tableau" alt="Tableau" width="55" height="55"/>|   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> |     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|
  
 
 
