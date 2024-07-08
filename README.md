@@ -9,7 +9,7 @@
 <br/>
 
 <!--<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">-->
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<img align="right" alt="Coding" width="350" src="output-onlinegiftools (1).gif"/>
 <div align="left">
   <img width="182" height="28" src="https://komarev.com/ghpvc/?username=saiky-111&style=flat&color=0e75b6" alt="Profile views"/>
 </div>
