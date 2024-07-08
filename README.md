@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="400" src="output-onlinegiftools (1).gif">
+<img align="right" alt="coding" width="350" src="output-onlinegiftools (1).gif">
 <!--<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"src="output-onlinegiftools (1).gif"/>-->
 <div align="left">
   <img width="182" height="28" src="https://komarev.com/ghpvc/?username=saiky-111&style=flat&color=0e75b6" alt="Profile views"/>
