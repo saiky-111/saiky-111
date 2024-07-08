@@ -45,7 +45,7 @@
      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
   </a>
       <a href="https://twitter.com/saiky_111" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
   </a>
      <a href="https://fb.com/saikat.dhibar.5015" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
