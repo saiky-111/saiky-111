@@ -58,23 +58,25 @@
 
  <hr/>
 
+
+<h2 align="center">    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>    ⚒️ Dev-Languages-Frameworks-Tools ⚒️ </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,flask" /><br>
+
+
+ 
+<!--
 <h2 align="center">    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>    ⚒️ Dev-Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>->
 
-<!--
- <hr/>
- 
-<h2 align="center">⚒️ Data-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=msexcel,github,powerbi,tableau,postgresql" />
-    <img src="https://skillicons.dev/icons?i=python,matplotlib,numpy, pandas,mysql" /><br>
-    -->
 
-### Data Tools, Python3 & It's Libraries:
+
+<h2> Data Tools, Python3 & It's Libraries : </h2>
 
 | MSExcel | Tableau | PowerBI | Python | Numpy | Pandas |
 |----------|----------|----------|----------|----------|----------|
@@ -82,9 +84,9 @@
  
 
 
-### Tools for Data Manipulation & Visualisation:
+<h2>Tools for Data Manipulation & Visualisation :</h2>
 
-| Jupyter | MySQL | Postgres | Plotly | Matplotlib |
+| Jupyter | MySQL | PostgreSQL | Plotly | Matplotlib |
 |----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="pltly" width="55" height="55"/> |
 
