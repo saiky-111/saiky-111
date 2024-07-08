@@ -30,8 +30,32 @@
 ⚡ Fun fact **I think I am funny😅**
 
  </div>
- <br><br><hr>
- # 🌐 Socials :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+ <br><br>
+
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">🌐 Socials 🌐</h2>
+<br/>
+<div align="center">
+<div align="center"> 
+  <a href="mailto:saikat111dhibar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/saiky111" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://saiky-111.github.io/Portfolio-1/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+     <a href="https://instagram.com/saiky_111" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+  </a>
+      <a href="https://twitter.com/saiky_111" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-292F33?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> 
+  </a>
+     <a href="https://fb.com/saikat.dhibar.5015" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
+</div>
+</div>
+ 
 <div align="center"> 
   <a href="mailto:saikat111dhibar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
