@@ -82,7 +82,7 @@
  
 
 
-### My tools for Data Manipulation & Visualisation:
+### Tools for Data Manipulation & Visualisation:
 
 | Jupyter | MySQL | Postgres | Plotly | Matplotlib |
 |----------|----------|----------|----------|----------|
