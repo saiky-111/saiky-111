@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">I'm a final year undergrad pursuing Bachelor of Engineering (B.E.) from Jadavpur University, Kolkata, India. 🇮🇳</h3> 
+<h3 align="center">Checkout My Data Analyst PortFolio :   <a href="https://github.com/saiky-111/DataPortfolioProjects">HERE</a></h3> 
 
 <br/>
 
