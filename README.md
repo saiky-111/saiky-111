@@ -63,7 +63,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,flask" /><br>
 
 
  
