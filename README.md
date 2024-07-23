@@ -1,7 +1,7 @@
 ![logo](https://github.com/saiky-111/saiky-111/blob/main/ASPIRING%20SOFTware%20DEVELOPER.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mishita+Dhibar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saikat+Dhibar!;" />
 </h1>
 
 <h3 align="center">I'm a final year undergrad pursuing Bachelor of Engineering (B.E.) from Jadavpur University, Kolkata, India. 🇮🇳</h3> 
