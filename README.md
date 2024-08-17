@@ -62,8 +62,8 @@
 <h2 align="center">    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  _  ⚒️ Dev-Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /><br>
 
 
  
